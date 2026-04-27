@@ -5,7 +5,7 @@ Nexus is a minimalist, modern, and high-performance game launcher designed to br
 
 ---
 
- ![Nexus Main Interface](screenshots/main_ui.png)
+ ![Nexus Main Interface](Screenshots/main_ui.png)
 
 ## ✨ Key Features
 
@@ -27,7 +27,7 @@ Nexus is a minimalist, modern, and high-performance game launcher designed to br
 
 ---
 
-![Windows Cache Cleaner](screenshots/cleaner.png)
+![Windows Cache Cleaner](Screenshots/cleaner.png)
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3.x
