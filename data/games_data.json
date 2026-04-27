@@ -1,0 +1,67 @@
+{
+    "games": {
+        "the finals": {
+            "launcher": "steam://rungameid/2073850",
+            "cover": "the finals.png",
+            "release_date": "2023-12-07",
+            "platforms": [
+                "Xbox Series X|S",
+                "PlayStation 4",
+                "PC (Microsoft Windows)",
+                "PlayStation 5"
+            ],
+            "summary": "The Finals is the world’s first Dynamism Shooter, a free-to-play, fast-paced, physics-driven, first-person shooter set on the stage of the biggest Gameshow of the future! Fight for Fans and fortune in fully-destructible, virtual Arenas that guarantee no two rounds will ever play the same!"
+        },
+        "combat master": {
+            "launcher": "steam://rungameid/2281730",
+            "cover": "combat master.png",
+            "release_date": "2021-12-23",
+            "platforms": [
+                "Linux",
+                "Android",
+                "PC (Microsoft Windows)",
+                "iOS",
+                "Mac"
+            ],
+            "summary": "Join fast-paced action-packed combat.\nPlay Combat Master - AAA experience on any hardware. Best-in-class multiplayer gunfight. Next-level extreme performance. Lightning-speed loading time and a whole lot more."
+        },
+        "grip combat racing": {
+            "launcher": "steam://rungameid/396900",
+            "cover": "grip combat racing.png",
+            "release_date": "Unknown",
+            "platforms": [],
+            "summary": "Unknown"
+        },
+        "dishonored 2": {
+            "launcher": "steam://rungameid/403640",
+            "cover": "dishonored 2.png",
+            "release_date": "2016-11-11",
+            "platforms": [
+                "PlayStation 4",
+                "PC (Microsoft Windows)",
+                "Xbox One"
+            ],
+            "summary": "Dishonored 2 is a first-person action video game and the sequel to Dishonored. It borrows many of the gameplay elements from the first opus: players define their own play style by blending action, assassination, stealth, mobility and combat. Combining tools at their disposal, players are allowed options to eliminate enemies, whether they choose to pursue them unseen or ruthlessly attack head on. Dishonored 2 features the same campaign style as its predecessor in which the protagonist must advance through a series of missions."
+        },
+        "replaced": {
+            "launcher": "steam://rungameid/1663850",
+            "cover": "replaced.png",
+            "release_date": "2026-04-14",
+            "platforms": [
+                "Xbox Series X|S",
+                "PC (Microsoft Windows)",
+                "Xbox One"
+            ],
+            "summary": "Replaced is a 2.5D sci-fi retro-futuristic action platformer where you play as R.E.A.C.H. - an artificial intelligence trapped in a human body against its own will. Replaced combines cinematic platforming, pixel art and free-flow action combat set in an alternative 1980's."
+        }
+    },
+    "_arrangement": [],
+    "all_games": [
+        "the finals",
+        "combat master",
+        "grip combat racing",
+        "dishonored 2",
+        "replaced"
+    ],
+    "favourites": []
+}
